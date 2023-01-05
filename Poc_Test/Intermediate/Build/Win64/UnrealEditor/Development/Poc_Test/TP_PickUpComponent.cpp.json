@@ -1,0 +1,27 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\documenti\\unreal projects\\poc_test\\source\\poc_test\\tp_pickupcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\documenti\\unreal projects\\poc_test\\intermediate\\build\\win64\\poc_testeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\documenti\\unreal projects\\poc_test\\intermediate\\build\\win64\\unrealeditor\\development\\poc_test\\definitions.poc_test.h",
+            "d:\\documenti\\unreal projects\\poc_test\\source\\poc_test\\tp_pickupcomponent.h",
+            "d:\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "d:\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "d:\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\spherecomponent.generated.h",
+            "d:\\documenti\\unreal projects\\poc_test\\source\\poc_test\\poc_testcharacter.h",
+            "d:\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "d:\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "d:\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "d:\\documenti\\unreal projects\\poc_test\\intermediate\\build\\win64\\unrealeditor\\inc\\poc_test\\poc_testcharacter.generated.h",
+            "d:\\documenti\\unreal projects\\poc_test\\intermediate\\build\\win64\\unrealeditor\\inc\\poc_test\\tp_pickupcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

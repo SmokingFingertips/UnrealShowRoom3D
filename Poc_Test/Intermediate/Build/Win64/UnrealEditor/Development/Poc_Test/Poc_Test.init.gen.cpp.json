@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\documenti\\unreal projects\\poc_test\\intermediate\\build\\win64\\unrealeditor\\inc\\poc_test\\poc_test.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\documenti\\unreal projects\\poc_test\\intermediate\\build\\win64\\poc_testeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\documenti\\unreal projects\\poc_test\\intermediate\\build\\win64\\unrealeditor\\development\\poc_test\\definitions.poc_test.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
