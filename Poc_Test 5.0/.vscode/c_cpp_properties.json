@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Poc_TestEditor Editor Linux Development (Poc_Test)",
+            "intelliSenseMode": "clang-x64",
+            "compileCommands": "/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/Poc_Test 5.0/.vscode/compileCommands_Poc_Test.json",
+            "cStandard": "c17",
+            "cppStandard": "c++14"
+        },
+        {
+            "name": "Linux",
+            "intelliSenseMode": "clang-x64",
+            "compileCommands": "/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/Poc_Test 5.0/.vscode/compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}

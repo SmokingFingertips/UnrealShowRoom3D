@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{813F3BA1-CDB1-4C2F-986C-E66BFBDF737C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Poc_Test",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
