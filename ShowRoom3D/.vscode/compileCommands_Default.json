@@ -1,0 +1,67 @@
+[
+	{
+		"file": "/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/Source/Poc_Test/Poc_Test.Build.cs",
+		"command": "/home/seba/Downloads/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++ @'/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/.vscode/compileCommands_Default/Poc_Test.199.rsp'",
+		"directory": "/home/seba/Downloads/Engine/Source"
+	},
+	{
+		"file": "/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/Source/Poc_Test/Poc_Test.cpp",
+		"command": "/home/seba/Downloads/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++ @'/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/.vscode/compileCommands_Default/Poc_Test.199.rsp'",
+		"directory": "/home/seba/Downloads/Engine/Source"
+	},
+	{
+		"file": "/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/Source/Poc_Test/Poc_Test.h",
+		"command": "/home/seba/Downloads/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++ @'/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/.vscode/compileCommands_Default/Poc_Test.199.rsp'",
+		"directory": "/home/seba/Downloads/Engine/Source"
+	},
+	{
+		"file": "/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/Source/Poc_Test/Poc_TestCharacter.cpp",
+		"command": "/home/seba/Downloads/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++ @'/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/.vscode/compileCommands_Default/Poc_Test.199.rsp'",
+		"directory": "/home/seba/Downloads/Engine/Source"
+	},
+	{
+		"file": "/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/Source/Poc_Test/Poc_TestCharacter.h",
+		"command": "/home/seba/Downloads/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++ @'/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/.vscode/compileCommands_Default/Poc_Test.199.rsp'",
+		"directory": "/home/seba/Downloads/Engine/Source"
+	},
+	{
+		"file": "/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/Source/Poc_Test/Poc_TestGameMode.cpp",
+		"command": "/home/seba/Downloads/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++ @'/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/.vscode/compileCommands_Default/Poc_Test.199.rsp'",
+		"directory": "/home/seba/Downloads/Engine/Source"
+	},
+	{
+		"file": "/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/Source/Poc_Test/Poc_TestGameMode.h",
+		"command": "/home/seba/Downloads/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++ @'/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/.vscode/compileCommands_Default/Poc_Test.199.rsp'",
+		"directory": "/home/seba/Downloads/Engine/Source"
+	},
+	{
+		"file": "/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/Source/Poc_Test/Poc_TestProjectile.cpp",
+		"command": "/home/seba/Downloads/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++ @'/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/.vscode/compileCommands_Default/Poc_Test.199.rsp'",
+		"directory": "/home/seba/Downloads/Engine/Source"
+	},
+	{
+		"file": "/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/Source/Poc_Test/Poc_TestProjectile.h",
+		"command": "/home/seba/Downloads/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++ @'/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/.vscode/compileCommands_Default/Poc_Test.199.rsp'",
+		"directory": "/home/seba/Downloads/Engine/Source"
+	},
+	{
+		"file": "/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/Source/Poc_Test/TP_PickUpComponent.cpp",
+		"command": "/home/seba/Downloads/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++ @'/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/.vscode/compileCommands_Default/Poc_Test.199.rsp'",
+		"directory": "/home/seba/Downloads/Engine/Source"
+	},
+	{
+		"file": "/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/Source/Poc_Test/TP_PickUpComponent.h",
+		"command": "/home/seba/Downloads/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++ @'/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/.vscode/compileCommands_Default/Poc_Test.199.rsp'",
+		"directory": "/home/seba/Downloads/Engine/Source"
+	},
+	{
+		"file": "/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/Source/Poc_Test/TP_WeaponComponent.cpp",
+		"command": "/home/seba/Downloads/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++ @'/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/.vscode/compileCommands_Default/Poc_Test.199.rsp'",
+		"directory": "/home/seba/Downloads/Engine/Source"
+	},
+	{
+		"file": "/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/Source/Poc_Test/TP_WeaponComponent.h",
+		"command": "/home/seba/Downloads/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v20_clang-13.0.1-centos7/x86_64-unknown-linux-gnu/bin/clang++ @'/home/seba/Uni/SWE/Progetto/UnrealShowRoom3D/ShowRoom3D 5.0/.vscode/compileCommands_Default/Poc_Test.199.rsp'",
+		"directory": "/home/seba/Downloads/Engine/Source"
+	}
+]
